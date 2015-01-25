@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1422224850 source:d:\dev\codeblocks\consoletestdynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1422224853 d:\dev\codeblocks\consoletestdynamic\main.h
+	<windows.h>
+

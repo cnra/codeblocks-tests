@@ -1,0 +1,5 @@
+EXPORTS
+    DllMain@12 @1
+    SampleAddInt @2
+    SampleAddIntExtern @3
+    SomeFunction @4
